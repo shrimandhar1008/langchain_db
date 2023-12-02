@@ -1,0 +1,8 @@
+chromadb==0.4.18
+google-generativeai==0.2.2
+python-dotenv==1.0.0
+langchain-experimental==0.0.42
+pymysql==1.1.0
+langchain==0.0.341
+sentence-transformers==2.2.2
+Django==4.2.7
